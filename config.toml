@@ -167,8 +167,8 @@ provider = "filesystem"
     [upload.s3]
         # (Optional). AWS Access Key and Secret Key for the user to access the bucket.
         # Leaving it empty would default to use instance IAM role.
-        aws_access_key_id = ""
-        aws_secret_access_key = ""
+        aws_access_key_id = "AKIAUN7QVBU4WD4DWBNV"
+        aws_secret_access_key = "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"
 
         # AWS Region where S3 bucket is hosted.
         aws_default_region = "ap-south-1"
